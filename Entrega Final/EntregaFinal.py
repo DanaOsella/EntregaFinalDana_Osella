@@ -279,7 +279,7 @@ def main():
             case "5": eliminar_producto()
             case "6": reporte_stock_bajo()
             case "7":
-                print(Fore.GREEN + "\n¡Gracias nuestro sistema!")
+                print(Fore.GREEN + "\n¡Gracias nuestrosistema!")
                 break
             case _:
                 print(Fore.RED + "Opción inválida. Intente nuevamente.")
